@@ -18,7 +18,7 @@ if check in mylist:
 else:
     print(check, "is not in list.")
 #Väljasta listi pikkus
-print(len(mylist))
+print(len(mylist))   #PRINT on funktsioon. Kui on mylist.remove ehk punkt vahel, siis see on meetod.
 #Eemalda listist element ja väljasta kogu list
 mylist.remove("rasberry")
 print(mylist)
