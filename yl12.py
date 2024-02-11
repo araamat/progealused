@@ -4,7 +4,7 @@ mylist = ["apple", "strawberry", "rasberry"]
 #Väljasta listi esimene väärtus
 print(mylist[0])
 #Lisa listi lõppu uus puuvili
-mylist.append("pear")
+mylist.append("pear")  #võimaldab lisada uue elemendi listi lõppu.
 print(mylist)
 #Väljasta listi viimane väärtus
 print(mylist[-1])

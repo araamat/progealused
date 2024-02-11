@@ -7,15 +7,11 @@
 n = input("Sisesta täisarv vahemikus 1-9: ")
 nn = n + n
 nnn = n + n + n
-total = int(n) + int(nn) + int(nnn)
+total = int(n) + int(nn) + int(nnn)   #
 print(n + " + " + nn, "+", nnn, "=", total)
 
-
-
-
-
-
-
+#INT  on Pythoni andmetüüp ja funktsioon, mis teisendab argumendiks antud väärtuse täisarvuks... 
+# ...Kui antud väärtus on arvuline string või ujukomaarv, teisendatakse see täisarvuks, kaotades ujukohad, kui need eksisteerivad.
 
 # küsime kasutajalt täisarvu n
 # leiame nn

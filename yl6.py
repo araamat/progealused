@@ -19,3 +19,10 @@ elif b > c:
 else:
     print("maksimum on", c)
     
+
+#INT  on Pythoni andmetüüp ja funktsioon, mis teisendab argumendiks antud väärtuse täisarvuks... 
+# ...Kui antud väärtus on arvuline string või ujukomaarv, teisendatakse see täisarvuks, kaotades ujukohad, kui need eksisteerivad.
+    
+#ELIF - "else if" ehk "muidu kui". Seda kasutatakse juhul, kui soovitakse kontrollida mitut tingimust järjestikku.
+    
+#ELSE -  "muul juhul". Seda kasutatakse siis, kui soovitakse, et mingi plokk koodi töötaks ainult siis, kui ükski eelnevatest tingimustest pole tõene.

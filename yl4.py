@@ -1,4 +1,5 @@
-# Kirjuta programm, mis leiab kahest kasutaja poolt sisestatud arvust miinimumi (ära kasuta min funktsiooni). (muutuja - variable, tingimus - condition, if-lause - if statement)
+# Kirjuta programm, mis leiab kahest kasutaja poolt sisestatud arvust miinimumi (ära kasuta min funktsiooni). (muutuja - variable, tingimus - condition, 
+# if-lause - if statement)
 # 1. Küsi kasutajalt arv 1
 # 2. Küsi kasutajalt arv 2
 # 3. Leia miinimum väärtus
@@ -10,3 +11,7 @@ if b > a:
     print ("miinimum on", a)
 else:  
     print ("miinimum on", b)
+
+
+#INT  on Pythoni andmetüüp ja funktsioon, mis teisendab argumendiks antud väärtuse täisarvuks... 
+# ...Kui antud väärtus on arvuline string või ujukomaarv, teisendatakse see täisarvuks, kaotades ujukohad, kui need eksisteerivad.
